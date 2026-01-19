@@ -53,26 +53,5 @@ To ensure reliability and maintainability, the project includes **unit tests usi
 
 ---
 
-## 📂 Project Structure
-
-```text
-EmotionDetection/
-│
-├── EmotionDetection/
-│   ├── __init__.py
-│   └── emotion_detection.py     # Core emotion detection logic
-│
-├── static/
-│   └── mywebscript.js            # Front-end JavaScript
-│
-├── templates/                    # HTML templates
-│
-├── server.py                     # Flask application entry point
-├── test_emotion_detection.py     # Unit tests
-├── README.md                     # Project documentation
-├── LICENSE
-└── .gitignore
-```
-
 ## ⚙️ Installation & Usage
 Clone the Repository: git clone https://github.com/mojarrad353/AI_Emotion_Detection_Python_Flask
