@@ -54,4 +54,4 @@ To ensure reliability and maintainability, the project includes **unit tests usi
 ---
 
 ## ⚙️ Installation & Usage
-Clone the Repository: git clone https://github.com/mojarrad353/AI_Emotion_Detection_Python_Flask
+Clone the Repository: git clone https://github.com/mojarrad353/AI_Emotion_Detection_Python_Flask.git
